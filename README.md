@@ -1,1 +1,3 @@
-README.md
+PROJET:
+
+Jeu de dé (DuoLingo)
